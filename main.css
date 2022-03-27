@@ -1,0 +1,32 @@
+#header {
+    background-color:#053f5c;
+    color:#f7ad19;
+    text-align:center;
+    padding:17px;
+    font-size:26px;
+}
+#nav {
+    line-height:200px;
+    background-image:url(images/3.jpeg);
+    height:620px;
+    width:220px;
+    float:left;
+    padding:10px; 
+    font-size: x-large;
+    color:#05a9be;
+}
+#section {
+    width:1045px;
+    float:left;
+    padding:56px; 
+    color:#053f5c;
+    background-color: azure;
+    line-height:26px;
+}
+#footer {
+    background-color:#f7ad19;
+    color:#f7ad19;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
